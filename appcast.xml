@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Naslovnik - posodobitve</title>
+        <item>
+            <title>Verzija 1.0.2</title>
+            <description>Novejša različica aplikacije.</description>
+            <pubDate>2022-10-02 00:00:00+00:00</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=si.b1.naslovnik" sparkle:version="1.0.2" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
